@@ -1,7 +1,7 @@
 import './login.css'
 import React, { useState } from 'react';
-import {Link , useNavigate} from 'react-roter-dom';
-import axios from 'axios'
+import {Link , useNavigate} from 'react-router-dom';
+// import axios from 'axios'
 import art from '../../assets/Art.png'
 import email_icon from '../../assets/email.png'
 import password_icon from '../../assets/password.png'
